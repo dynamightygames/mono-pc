@@ -55,3 +55,6 @@ libeglib_la-*.o
 /mono/tests/tests-config
 /scripts/lc
 /scripts/pdb2mdb
+
+# OSX
+.DS_Store
